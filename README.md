@@ -17,7 +17,7 @@
 
 ## 🛠️ 사용 기술 및 라이브러리
 - FrontEnd : `HTML5` `CSS3` `Javascript(ES6)` `jQuery3.1`
-- Backend : `Java17` `Spring Boot`
+- Backend : `Java17` `Spring Boot` `Spring Data JPA`
 - DBMS : `MySQL8.0`
 - Tool : `IntelliJ IDEA` `MySQL Workbench 8.0 CE` `HeidiSQL 12.5.0.6677`
 - Library/API : `thymeleaf` `Lombok` `JavaMailSender` `mysql-connector` 등
