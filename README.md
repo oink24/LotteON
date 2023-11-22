@@ -16,7 +16,6 @@
 <br/>
 
 ## 🛠️ 사용 기술 및 라이브러리
-- WAS : `Apache Tomcat 9.0.80`
 - FrontEnd : `HTML5` `CSS3` `Javascript(ES6)` `jQuery3.1`
 - Backend : `Java17` `Spring Boot`
 - DBMS : `MySQL8.0`
