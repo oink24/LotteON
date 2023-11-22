@@ -11,6 +11,7 @@
 ◾ 상품 : `목록` `상세보기` `장바구니` `주문하기`  
 ◾ 고객센터 : `공지사항` `자주묻는질문` `문의하기`  
 ◾ 관리자 : `상품등록` `고객센터관리`  
+◾ 기타 : `약관안내` `회사소개`
 <br/>
 <br/>
 
@@ -20,7 +21,7 @@
 - Backend : `Java17` `Spring Boot`
 - DBMS : `MySQL8.0`
 - Tool : `IntelliJ IDEA` `MySQL Workbench 8.0 CE` `HeidiSQL 12.5.0.6677`
-- Library/API : `thymeleaf` `lombok` `JavaMailSender` `mysql-connector` 등
+- Library/API : `thymeleaf` `Lombok` `JavaMailSender` `mysql-connector` 등
 <br/>
 <br/>
 
@@ -41,6 +42,8 @@
 ![15문의하기](https://github.com/oink24/LotteON/assets/136422103/08c70d22-719e-466d-9a9d-d1465a120167)
 ![16문의하기작성](https://github.com/oink24/LotteON/assets/136422103/ec2606ab-10f5-4dab-be62-26971000997c)
 ![17공지사항](https://github.com/oink24/LotteON/assets/136422103/a9a0a587-0e6c-48e8-919a-290766c06d1d)
+![회사소개](https://github.com/oink24/LotteON/assets/136422103/41b28a78-c898-4264-a374-beb1f48ba2a0)
+![이용약관안내](https://github.com/oink24/LotteON/assets/136422103/13016239-559b-4265-858a-64d5280cfa6c)
 <br/>
 <br/>
 
